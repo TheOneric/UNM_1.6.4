@@ -1,0 +1,228 @@
+This changelog is pulled straight from the Minecraftforum page, apologies for
+bad formatting.
+
+----
+
+
+Changelog:
+
+
+
+Minecraft 1.6.4 - V.1.8.6 *updated to MC 1.6.4
+
+*nerfed Diablo and the Slaughter
+
+
+
+Minecraft 1.6.2 - V.1.8.5
+#fixed bug: IcePIgmans aren't holding Glowstone Swords
+
++added rare Chance, that if you hit an IcePigman with difficulty "Hard", the 
+Pigman will summon a thunderbolt with his Glowstone sword
+Minecraft 1.6.2 - V.1.8.4
+**updated to Minecraft 1.6.2**
+
+#fixed some Minor Bugs
+#fixed the Achievement Bug
+#fixed spelling Errors (ignot --> ingot)
+
++added Sounds on Achievement
+
+*makes the Mazes more rare again
+
+
+
+
+
+
+
+Minecraft 1.6.1 - V.1.8.3
+**updated to Minecraft 1.6.1**
+
+#fixed some Minor Bugs
+
++added Donator System
++ more code for the upcoming Boss&Dungeon Update
+
+* Blackstone and HellPilz Biomes are now more rare
+
+
+
+
+
+
+Minecraft 1.5.2 - V.1.8.2
+
+
+**updated to Minecrfat 1.5.2**
+
+# fixed Bug: Ice-Pigmans spawn an day and burn to death after spawning
+
+
+Minecraft 1.5.1 - V.1.8 *fixed : MC crash when using this Mod and More Health 
+Enchanted at the Same time.
+---> the Config has been renamed cause of this
+
+*add some Options to the Config to remove crashes cause of the Achievements
+
+
+
+
+Minecraft 1.5.1 - V.1.8
+
+**updated to Minecrfat 1.5.1**
+
+*CHANGE SAVEFOLDER OF THE DIMENSION (If you wish to use your old FallenSky World 
+you must rename the SaveFolder; watch FAQ)
+
+*change the way how The Giant Mushroom planting works (Diablo)
+*reduce Nether Armor
+*change Recipe for Netherignot
+*change Recipe for Epic Netherignot
+*change Recipe for Epic NetherBlock
+
++ you can now let Hell-Mushrooms grow with bonemeal
+
+#fix bugs: -Plumbum Hammer is not craftable
+
+
+
+
+
+Minecraft 1.4.7 - V.1.6a
+
+
++ added Multiplayersupport !!
+
++ added dimension "Fallen Sky"
++ added an PortalBlock
++ added Harpyen
++ added Plumbum ore and ignots
++ added Plumbum Hammer
++ added Dead Stone, Dead Dirt and Dead Grass
++ added Smog
+
+* Statue can now be set with an rotation !
+
+
+- removed Netherbrickslab ( is now a Vanilla Feature )
+
+Minecraft 1.4.7 - v.1.6
+
+*update to Minecraft 1.4.7 and the new packages
+
++added huge fire trees to the nether
++added Fire-Log, Fire-Leaves and Firetree-Spaling
++added Netherwood, -doors, -fences and -fencegates
++added stacking for slabs
++added walls to each new fence typ
+
++added mcmod.info and logo
+
+
+
+
+
+Minecarft 1.4.5 - v.1.3
+
++ update to MC 1.4.5
+
+- remove bug in Hell Mushroom Farming
+(A big thank to Alien_Substance, who report that bug to me)
+
+
+
+
+
+
+
+
+Minecraft 1.4.2 - Mod 2.0
+
+
+*completly change the way how mudlakes generate
+
++added dynamic generateted Mazes to the Nether (they have traps chests, mob 
+spawners and much more) ! :D (Rarity can be setted in the config file)
++added a very small cooldown for the Nether Bow
++the Nether Bow now break after 3000 uses
++very, very small chance that Nether Arrows break when they hitting a Entity or 
+Block
++added NetherSlime(like lava atm, just to get a little bit more colour into the 
+Nether)
++added NetherBucket(Dungeons only)
++added fake TNT for traps in the mazes
+
+-remove Aeroclouds
+-remove bug: Thunderbolt from Glowstonesword do no damage
+-remove some other bugs
+
+
+
+
+Minecraft 1.4.2 - Mod Version R1:
+
+
+*change to Forge
+*change the spawneggs
+
++add Block/Item ID propertie file
++support German Language now
++added Obsidian Slabs
++added Giant nether Mushroom to the Nether generation
++Nether fences now connect with the Netherbrick fence gates
++added new Biome called IceHell
++added new Mob : IceGhost
++added new Mob : IcePigman
++with bonemeal you can set the nethermushrooms into the second stage
+
+-remove spawnegg bug
+
+
+Minecraft 1.3.2 - Mod Release 3:
+
+
++Obsidianfences, - gates and stairs(explosionresistance) +You can shoot a 
+lightning Bolt with the Glowstone sword +HellAltar(without working Gui) 
++Aeroclouds(just for fun this little feature from the awesome AetherMod) +Epic 
+Nether Block +Fire Gem +Nether Bow and Nether Arrows(burning shhots :) ) 
++Growing Glowstone +Statue(only aviable in creative, will get some cool features 
+in future) +Enchanted Soul Sand(makes you faster, only in creative atm, will be 
+enchanted with the hell altar in future)
++ a lot of unfinished code for the next version ;)
+
+*changing the crafting Recipe for Glowstone sword
+
+-remove Item naming Bugs -remove texture bug, when wearing armor
+
+
+
+V1.3(R2) for MC 1.3.2 +turn down the Nether Dungeon spawn rate
+
+
+V.1.3 for MC 1.3.2: +move to this new site +rename to the ultimate Nether mod
++MC 1.3.2 support
++Bugfixes
++Netherdungeons
++The Slaughterer
++lot of other things
+
+
+V.1.2 for Minecraft 1.2.5 :
++Glowstone Armor and Weapon
++The Abyss
++The Mob "Lost Soul"
++Bugfixes
++Hiddendoors
+
+
+
+V. 1.1 for Minecraft 1.2.5:
++Glowstone fences (Gates) ,stairs ,doors and trapdoors , and for Netherbrick too
++NetherMushroom is a furnace material
++using the actually install Texturepack
+
+
+V. 1.0 for Minecraft 1.2.5:
+
+release
