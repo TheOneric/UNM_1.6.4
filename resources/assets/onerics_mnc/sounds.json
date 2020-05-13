@@ -1,0 +1,11 @@
+{
+	
+	"achievement.get" : {
+		"category": "ambient",
+		sounds:[
+			"achievement/achiev1",
+			"achievement/achiev2"
+		]
+	}
+	
+}
