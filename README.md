@@ -34,10 +34,11 @@ I never thought it would get as big as it did.
 # License
 Well, … Licensing is a bit tricky since this is a Minecraft Mod and thus builds 
 upon Mojang's/Microsoft's Minecraft.
-As far as this is possible I want to release the source code as GPLv3 or later.
-and non-code resources are released under CC-BY-SA 3.0 or later, as far as possible.
+As far as this is possible I want to release the source code as LGPLv3 or later.
+(with special linking exception for Minecraft)
+Non-code resources are released under CC-BY-SA 3.0 or later, as far as possible.
 
 
 This also overrules any stricter licensing conditions I may have used earlier, 
 for older builds everyone is as of now free to choose either the original 
-licensing conditions or the one laid out here (GPLv3 and CC-BY-SA).
+licensing conditions or the one laid out here (LGPLv3 and CC-BY-SA).
