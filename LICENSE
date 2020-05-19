@@ -1,9 +1,18 @@
-For the source code parts in this repository the GPLv3, or at your choosing any 
+For the source code parts in this repository the LGPLv3, or at your choosing any
 later version, applies.
+Additionally a special exception is granted to link this programm against
+and use it with all variants of Mojang's Minecraft, which is as of writing
+non-free.
 
-Images and if present other non-Java-code resources like sounds etc, are 
-released under the terms of the Creative Commons Attribution-ShareAlike 3.0, or 
-at your choosing any later version if CC-BY-SA.
+Images and if present other non-Java-code resources, like sounds etc, are
+released under the terms of the Creative Commons Attribution-ShareAlike 3.0, or
+at your choosing any later version of CC-BY-SA.
 
-The license text of both GPLv3 and CC-BY-SA 3.0 should be distributed with this 
-file.
+The license text of both LGPLv3 and CC-BY-SA 3.0 should have been distributed
+together with this file. If not see
+
+  https://creativecommons.org/licenses/by-sa/3.0/  for CC-BY-SA
+
+  and
+
+  http://www.gnu.org/licenses/                     for LGPL
